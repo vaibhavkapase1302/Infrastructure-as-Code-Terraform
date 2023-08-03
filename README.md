@@ -10,7 +10,7 @@ Welcome to the Infrastructure-as-Code (IaC) repository! This project aims to aut
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
 ## Terraform Installation
-<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Installation.png" width="700" height="400" alt="Example Image">
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Installation.png" width="800" height="400" alt="Example Image">
 
  
 ### Connect AWS to Terraform 
