@@ -7,6 +7,5 @@ Welcome to the Infrastructure-as-Code (IaC) repository! This project aims to aut
 
 
 ### Terraform Documantation for AWS 
-href="href="https://registry.terraform.io/providers/hashicorp/aws/latest/docs"> 
-
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
  
