@@ -36,7 +36,7 @@ provider "aws" {
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax.png" width="800" height="300" alt="Terraform Language Basics – Configuration Syntax">
 
-## Terraform code to Connect to EC2 Instance
+## Terraform code to Connect with EC2 Instance
 
 ```tf
 provider "aws" {
@@ -52,3 +52,5 @@ resource "aws_instance" "example" {
   }
 }
 ```
+
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax%2002.png" width="800" height="300" alt="Terraform Language Basics – Configuration Syntax 02">
