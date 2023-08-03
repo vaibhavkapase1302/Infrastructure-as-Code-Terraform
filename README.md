@@ -34,5 +34,4 @@ provider "aws" {
 * There is also a JSON-based variant of the language that is named with the ```.tf.json``` file extension.
 * We can call the files containing terraform code as Terraform Configuration Files or Terraform Manifests
 
-
-<img src="example.jpg" width="200" height="300" alt="Terraform Language Basics">
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax.png" width="800" height="300" alt="Terraform Language Basics – Configuration Syntax">
