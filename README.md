@@ -9,3 +9,12 @@ Welcome to the Infrastructure-as-Code (IaC) repository! This project aims to aut
 ### Terraform Documantation for AWS 
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
  
+### Connect AWS to Terraform 
+
+```tf
+provider "aws" {
+  region     = "us-west-2"
+  access_key = "my-access-key"
+  secret_key = "my-secret-key"
+}
+```
