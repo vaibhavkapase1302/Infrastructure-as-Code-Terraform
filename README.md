@@ -60,4 +60,4 @@ resource "aws_instance" "example" {
 
 ## Comments in Terraform
 1. For Single Line Comments with ```#``` or ```//```
-2. Multi-line comment ```/* --- */````
+2. Multi-line comment ```/* --- */```
