@@ -29,3 +29,10 @@ provider "aws" {
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="800" height="400" alt="Terraform Workflow">
 
+## Terraform Language Basics
+Code in the Terraform language is stored in plain text files with the ```.tf``` file extension. 
+There is also a JSON-based variant of the language that is named with the ```.tf.json``` file extension.
+We can call the files containing terraform code as Terraform Configuration Files or Terraform Manifests
+
+
+<img src="example.jpg" width="200" height="300" alt="Terraform Language Basics">
