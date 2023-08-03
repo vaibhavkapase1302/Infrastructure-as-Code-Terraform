@@ -35,3 +35,20 @@ provider "aws" {
 * We can call the files containing terraform code as Terraform Configuration Files or Terraform Manifests
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax.png" width="800" height="300" alt="Terraform Language Basics – Configuration Syntax">
+
+## Terraform code to Connect to EC2 Instance
+
+```tf
+provider "aws" {
+  region = "us-west-2"  # Set your desired AWS region here
+}
+
+resource "aws_instance" "example" {
+  ami           = "ami-0c55b159cbfafe1f0"  # Specify the AMI ID of your desired EC2 instance image
+  instance_type = "t2.micro"  # Set the instance type here (e.g., t2.micro, t2.small, etc.)
+
+  tags = {
+    Name = "ExampleInstance"  # Set the name tag for the instance here
+  }
+}
+```
