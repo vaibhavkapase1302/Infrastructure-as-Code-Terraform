@@ -20,4 +20,4 @@ provider "aws" {
 ```
 
 ## Terraform Workflow
-<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" alt="Example Image">
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="600" height="400" alt="Example Image">
