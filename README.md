@@ -18,3 +18,6 @@ provider "aws" {
   secret_key = "my-secret-key"
 }
 ```
+
+## Terraform Workflow
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" alt="Example Image">
