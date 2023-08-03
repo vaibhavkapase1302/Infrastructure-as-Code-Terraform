@@ -23,5 +23,5 @@ provider "aws" {
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow%2002.png" width="800" height="400" alt="Terraform Workflow Basics">
 
-<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="800" height="400" alt="Terraform Workflow">
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="800" height="300" alt="Terraform Workflow">
 
