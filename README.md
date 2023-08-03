@@ -55,4 +55,4 @@ resource "aws_instance" "example" {
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax%2002.png" width="800" height="400" alt="Terraform Language Basics – Configuration Syntax 02">
 
-<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax%2002.png" width="400" height="400" alt="Terraform Language Basics – Configuration Syntax 03">
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax%2002.png" width="800" height="400" alt="Terraform Language Basics – Configuration Syntax 03">
