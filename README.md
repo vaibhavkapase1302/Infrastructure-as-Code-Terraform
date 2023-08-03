@@ -61,3 +61,7 @@ resource "aws_instance" "example" {
 ## Comments in Terraform
 1. For Single Line Comments with ```#``` or ```//```
 2. Multi-line comment ```/* --- */```
+
+## Terraform Providers
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Providers.png" width="800" height="400" alt="Terraform Providers">
+
