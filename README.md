@@ -83,7 +83,7 @@ $export AWS_ACCESS_KEY_ID=
 $export AWS_SECRET_ACCESS_KEY=
 ```
 
-
+<img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Connect%20AWS%20to%20Terraform.png" width="600" height="400" alt="Connect AWS to Terraform">
 
 
 
