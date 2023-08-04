@@ -65,3 +65,16 @@ resource "aws_instance" "example" {
 ## Terraform Providers
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Providers.png" width="800" height="400" alt="Terraform Providers">
 
+# Connect AWS to Terraform
+
+To follow this tutorial you will need:
+* The Terraform CLI (1.2.0+) installed.
+* The AWS CLI installed.
+* AWS account and associated credentials that allow you to create resources.
+
+
+To use your IAM credentials to authenticate the Terraform AWS provider, set the ```AWS_ACCESS_KEY_ID``` environment variable.
+
+```export AWS_ACCESS_KEY_ID=```
+
+
