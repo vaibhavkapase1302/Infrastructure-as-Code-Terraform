@@ -40,6 +40,13 @@ Is like a Platform Cloud Provider e.g. AWS, GCP, Azure
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Language%20Basics%20%E2%80%93%20Configuration%20Syntax.png" width="800" height="300" alt="Terraform Language Basics – Configuration Syntax">
 
+Main commands:
+  - ```init```          Prepare your working directory for other commands
+  - ```validate```      Check whether the configuration is valid
+  - ```plan```          Show changes required by the current configuration
+  - ```apply```         Create or update infrastructure
+  - ```destroy```       Destroy previously-created infrastructure
+
 ## Terraform code to Connect with EC2 Instance
 
 ```tf
