@@ -23,6 +23,10 @@ provider "aws" {
 }
 ```
 
+Provider
+
+Is like a Platform Cloud Provider e.g. AWS, GCP, Azure
+
 ## Terraform Workflow
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow%2002.png" width="800" height="300" alt="Terraform Workflow Basics">
