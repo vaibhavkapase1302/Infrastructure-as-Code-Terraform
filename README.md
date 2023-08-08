@@ -31,14 +31,14 @@ Is like a Platform Cloud Provider e.g. AWS, GCP, Azure
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow%2002.png" width="800" height="300" alt="Terraform Workflow Basics">
 
-Main commands:
+### Main commands:
   - ```init```          Prepare your working directory for other commands
   - ```validate```      Check whether the configuration is valid
   - ```plan```          Show changes required by the current configuration
   - ```apply```         Create or update infrastructure
   - ```destroy```       Destroy previously-created infrastructure
 
-Resource:
+### Resource:
 - Creating Infrastructure on AWS
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="800" height="400" alt="Terraform Workflow">
