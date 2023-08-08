@@ -38,8 +38,8 @@ Main commands:
   - ```apply```         Create or update infrastructure
   - ```destroy```       Destroy previously-created infrastructure
 
-Resource 
-Creating Infrastructure on AWS
+Resource:
+- Creating Infrastructure on AWS
 
 <img src="https://github.com/vaibhavkapase1302/Infrastructure-as-Code-Terraform/blob/main/Terraform%20Workflow.png" width="800" height="400" alt="Terraform Workflow">
 
